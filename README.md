@@ -46,3 +46,24 @@ It utilises both Forge and LiteLoader to load the following mods:
 #### [Shaders](http://www.shadersmod.net/)
 #### [Xaero's Minimap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2379024-xaeros-minimap)
 #### [MCUpdater](http://mcupdater.com/)
+
+## Credit for Athion ModPack
+This ModPack was a collaborative effort between some of the staff on the Athion Network Project.  
+
+### People involved in design of this ModPack.
+
+@Sycoinc
+@dordsor21
+@Goodman414
+@Chamunks
+
+### People involved in design and packaging.
+
+@dordsor21
+@Chamunks
+@Sycoinc
+
+### Graphics design.
+
+@Sycoinc
+@Wuxa

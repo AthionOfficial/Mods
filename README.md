@@ -78,7 +78,6 @@ This ModPack was a collaborative effort between some of the staff on the Athion 
 
 ### People involved in design of this ModPack.
 
-@Sycoinc
 @dordsor21
 @Goodman414
 @Chamunks
@@ -87,7 +86,6 @@ This ModPack was a collaborative effort between some of the staff on the Athion 
 
 @dordsor21
 @Chamunks
-@Sycoinc
 
 ### Graphics design.
 

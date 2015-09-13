@@ -69,11 +69,11 @@ The automatic installation of the ModPack required inputting your MineCraft cred
  
  - [MCUpdater] (http://mcupdater.com/)
  
-## Note
+### Note
 
   We would like to take the opportunity especially thank the creator of "MCUpdater" for his voluntary help in the creation automatic installation program, being of great asset whilst getting it working!
   
-  ## Credit for Athion ModPack
+## Credit for Athion ModPack
 This ModPack was a collaborative effort between some of the staff on the Athion Network Project.  
 
 ### People involved in design of this ModPack.

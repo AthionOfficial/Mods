@@ -27,7 +27,7 @@ The pack utilises both Forge and LiteLoader to load the following mods:
 
 ###Automatic
 
-The automatic installation of the ModPack required inputting your MineCraft credentials. The credentials are not stored and are only relayed to the Mojang servers. Any "hacking" of your client during the use of the ModPack cannot be affiliated with the Athion Project.
+The automatic installation of the ModPack requires inputting your MineCraft credentials. The credentials are not stored and are only relayed to the Mojang servers. Any "hacking" of your client during the use of the ModPack cannot be affiliated with the Athion Project.
 
    1. Run the "Athion ModPack.jar" file
    2. Click "Update" in the bottom right of your screen

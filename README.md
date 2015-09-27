@@ -21,7 +21,7 @@ The pack utilises both Forge and LiteLoader to load the following mods:
 
 ### Data Collection and Profiling
 
- We collect do not collect any on your usage of this ModPack what so ever.  Granted data collection does help improve the quality of software, but we believe in your privacy and freedom and will not track anything; this includes your MineCraft credentials, and we will have no part in stealing passwords and usernames.  
+ We collect do not collect any on your usage of this ModPack whatsoever.  Granted data collection does help improve the quality of software, but we believe in your privacy and freedom and will not track anything; this includes your MineCraft credentials; we will have no part in stealing passwords and usernames.  
 
 ## Installation
 

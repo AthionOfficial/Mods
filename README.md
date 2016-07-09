@@ -1,7 +1,6 @@
 # This is the official ModPack endorsed by the Athion Network
 
 The pack utilises both Forge and LiteLoader to load the following mods:
-  - DaFlight
   - WorldEditCUI
   - Optifine
   - Shaders
@@ -53,8 +52,6 @@ The automatic installation of the ModPack requires inputting your MineCraft cred
  
  - [LiteLoader](http://www.liteloader.com/)
  
- - [DaFlight](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293938-daflight-fly-mod-v2-4r9)
- 
  - [WorldEditCUI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui)
  
  - [Optifine](http://optifine.net/home)
@@ -79,7 +76,6 @@ This ModPack was a collaborative effort between some of the staff on the Athion 
 ### People involved in design of this ModPack.
 
 @dordsor21
-@Goodman414
 @Chamunks
 
 ### People involved in design and packaging.

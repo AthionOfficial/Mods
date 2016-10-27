@@ -1,12 +1,53 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
+<!DOCTYPE html>
+<html id="XenForo" lang="en-US" dir="LTR" class="Public LoggedIn Sidebar RunDeferred Responsive hasCollapseNodes hasLoginModal not_hasTabLinks hasSidebarToggle hasSearch activeSmallLogo navStyle_2 pageStyle_1 hasJs NoTouch HasDragDrop js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths gr__athion_net" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head><meta http-equiv="Content-Type" content="text/html"; charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--<base href="http://www.athion.net/community/">--><base href=".">
+	<script src="./Athion Network Community Forums_files/cb=gapi.loaded_1" async=""></script><script src="./Athion Network Community Forums_files/cb=gapi.loaded_0" async=""></script><script async="" src="./Athion Network Community Forums_files/analytics.js.download"></script><script>
+		var _b = document.getElementsByTagName('base')[0], _bH = "http://www.athion.net/community/";
+		if (_b && _b.href != _bH) _b.href = _bH;
+	</script>
 	<link rel="stylesheet" href="files/css.php">
 	<link rel="stylesheet" href="files/css(1).php">
+	<script>
+		uix = {
+		elm:{},fn:{},
+		init: function(){
+		if (uix.betaMode) {
+		console.group('uix.%cinit()', 'color:#3498DB');
+		}
+		for(var x=0;x<uix.events.init.length;x++){
+		uix.events.init[x]();
+		}
+		console.groupEnd('uix.%cinit()', 'color:#3498DB');
+		},
+		events: {init:[]},
+		on: function(event, fn){
+			if (event=='init') { uix.events.init.push(fn) }
+		}
+		};
+		uix.mainContainerMargin  	= '290px';
+		uix.maxResponsiveWideWidth   	= '800px';
+		uix.maxResponsiveMediumWidth 	= '610px';
+		uix.maxResponsiveNarrowWidth 	= '480px';
+		uix.stickyNavigation_minWidth 	= parseInt('0');
+		uix.stickyNavigation_minHeight	= parseInt('400px');
+		uix.stickyNavigation_maxWidth 	= parseInt('0');
+		uix.stickyNavigation_maxHeight	= parseInt('0');
+		if(uix.stickyNavigation_maxWidth == 0){uix.stickyNavigation_maxWidth = 999999}
+		if(uix.stickyNavigation_maxHeight == 0){uix.stickyNavigation_maxHeight = 999999}
+		uix.betaMode = '0';
+		uix.collapsibleSidebar_phrase_close 	= '';
+		uix.collapsibleSidebar_phrase_open 	= '';
+		uix.stickySidebar = 0;
+		uix.globalPadding = parseInt('40px');
+		uix.stickyItems = {};
+		uix.stickyItems_length = 0;
+		$(document).ready(function(){
+	});
+	</script>
 	<link href="files/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="files/css(2).php">
 	<script src="files/jquery-1.11.0.min.js.download"></script>
@@ -49,43 +90,6 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-	<script>
-		uix = {
-		elm:{},fn:{},
-		init: function(){
-		if (uix.betaMode) {
-		console.group('uix.%cinit()', 'color:#3498DB');
-		}
-		for(var x=0;x<uix.events.init.length;x++){
-		uix.events.init[x]();
-		}
-		console.groupEnd('uix.%cinit()', 'color:#3498DB');
-		},
-		events: {init:[]},
-		on: function(event, fn){
-			if (event=='init') { uix.events.init.push(fn) }
-		}
-		};
-		uix.mainContainerMargin  	= '290px';
-		uix.maxResponsiveWideWidth   	= '800px';
-		uix.maxResponsiveMediumWidth 	= '610px';
-		uix.maxResponsiveNarrowWidth 	= '480px';
-		uix.stickyNavigation_minWidth 	= parseInt('0');
-		uix.stickyNavigation_minHeight	= parseInt('400px');
-		uix.stickyNavigation_maxWidth 	= parseInt('0');
-		uix.stickyNavigation_maxHeight	= parseInt('0');
-		if(uix.stickyNavigation_maxWidth == 0){uix.stickyNavigation_maxWidth = 999999}
-		if(uix.stickyNavigation_maxHeight == 0){uix.stickyNavigation_maxHeight = 999999}
-		uix.betaMode = '0';
-		uix.collapsibleSidebar_phrase_close 	= '';
-		uix.collapsibleSidebar_phrase_open 	= '';
-		uix.stickySidebar = 0;
-		uix.globalPadding = parseInt('40px');
-		uix.stickyItems = {};
-		uix.stickyItems_length = 0;
-		$(document).ready(function(){
-	});
-	</script>
 	<script src="files/modernizr.js.download"></script>
 	<script src="files/functions.min.js.download"></script>
 	<link rel="stylesheet" id="camera-css" href="files/camera.css" type="text/css" media="all">

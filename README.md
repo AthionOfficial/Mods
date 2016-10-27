@@ -24,7 +24,7 @@ The pack utilises both Forge and LiteLoader to load the following mods:
 
 ## Installation
 
-###Automatic
+### Automatic
 
 The automatic installation of the ModPack requires inputting your MineCraft credentials. The credentials are not stored and are only relayed to the Mojang servers. Any "hacking" of your client during the use of the ModPack cannot be affiliated with the Athion Project.
 
@@ -32,7 +32,7 @@ The automatic installation of the ModPack requires inputting your MineCraft cred
    2. Click "Update" in the bottom right of your screen
    3. Once it has finished, click "Launch Minecraft"
 
-###Manual
+### Manual
 
    1. Extract the contents of this folder into a destination of your choosing
    2. Run the file "Forge.jar" file and select "Install Client", making sure it runs correctly
@@ -46,44 +46,30 @@ The automatic installation of the ModPack requires inputting your MineCraft cred
    10. Launch minecraft and select your new profile. If no name was set it will be "LiteLoader 1.8 with Forge 11.14.1.1334"
    11. Enjoy!
 
-## Crediting Mod Creators
+      <h3>Crediting Mod Creators</h3>
+       - [DiscordCE] (http://www.planetminecraft.com/mod/discordce-101---connect-to-discord-in-minecarft/)
+       
+       - [Forge] (http://www.minecraftforge.net/)
+       
+       - [LiteLoader] (http://www.liteloader.com/)
+       
+       - [Optifine] (http://optifine.net/home)
 
- - [Forge](http://www.minecraftforge.net/forum/)
- 
- - [LiteLoader](http://www.liteloader.com/)
- 
- - [WorldEditCUI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui)
- 
- - [Optifine](http://optifine.net/home)
- 
- - [Shaders](http://www.shadersmod.net/)
- 
- - [Xaero's Minimap](http://www.planetminecraft.com/mod/xaeros-minimap/)
- 
- - [MCUpdater](http://mcupdater.com/)
- 
- - [PixelCam] (http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2327429-pixelcam-camera-studio-for-minecraft-1-8)
- 
- - [MCUpdater] (http://mcupdater.com/)
+       - [PixelCam] (http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2327429-pixelcam-camera-studio-for-minecraft-1-8-and-1-9)
+
+       - [WorldEditCUI] (http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui)
+
+       - [Xaero's Minimap] (http://www.planetminecraft.com/mod/xaeros-minimap/)
+
+       - [XRay] (http://mod-minecraft.net/xray-fly-mod/)
+
+       - [MCUpdater] (http://mcupdater.com/)
  
 ### Note
 
   We would like to take the opportunity especially thank the creator of "MCUpdater" for his voluntary help in the creation of the automatic installation program, being of great asset whilst getting it working!
-  
-## Credit for Athion ModPack
-This ModPack was a collaborative effort between some of the staff on the Athion Network Project.  
 
-### People involved in design of this ModPack.
+### People involved in design and packaging..
 
 @dordsor21
 @Chamunks
-
-### People involved in design and packaging.
-
-@dordsor21
-@Chamunks
-
-### Graphics design.
-
-@Sycoinc
-@Wuxa
